@@ -1,8 +1,8 @@
 #problem 5
 
-word = "Hello, World!"
-floatNum = 3.14
-intNum = 42
+word = "What is this"
+floatNum = 8.24
+intNum = 24
 
 print(type(word))  
 print(type(floatNum))  
