@@ -1,0 +1,62 @@
+<library>
+  <book>
+    <title>The Mamba Mentality: How I Play</title>
+    <author>Kobe Bryant</author>
+    <year>2018</year>
+    <available>true</available>
+  </book>
+  <book>
+    <title>Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <year>1813</year>
+    <available>false</available>
+  </book>
+  <book>
+    <title>Fahrenheit 451</title>
+    <author>Ray Bradbury</author>
+    <year>1953</year>
+    <available>true</available>
+  </book>
+  <book>
+    <title>The Giver</title>
+    <author>Lois Lowry</author>
+    <year>1993</year>
+    <available>true</available>
+  </book>
+  <book>
+    <title>Atomic Habits</title>
+    <author>James Clear</author>
+    <year>2018</year>
+    <available>true</available>
+  </book>
+  <book>
+    <title>The Anxious Generation</title>
+    <author>Jonathan Haidt</author>
+    <year>2024</year>
+    <available>false</available>
+  </book>
+  <book>
+    <title>The Hunger Games</title>
+    <author>Suzanne Collins</author>
+    <year>2008</year>
+    <available>true</available>
+  </book>
+  <book>
+    <title>Emotional Intelligence</title>
+    <author>Daniel Goleman</author>
+    <year>1995</year>
+    <available>true</available>
+  </book>
+  <book>
+    <title>Project Hail Mary</title>
+    <author>Andy Weir</author>
+    <year>2022</year>
+    <available>false</available>
+  </book>
+  <book>
+    <title>To the Lighthouse</title>
+    <author>Virginia Woolf</author>
+    <year>1927</year>
+    <available>true</available>
+  </book>
+</library>

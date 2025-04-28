@@ -1,0 +1,65 @@
+{
+    "books": [
+      {
+        "title": "The Mamba Mentality: How I Play",
+        "author": "Kobe Bryant",
+        "year": 2018,
+        "available": true
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "available": false
+      },
+      {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "year": 1953,
+        "available": true
+      },
+      {
+        "title": "The Giver",
+        "author": "Lois Lowry",
+        "year": 1993,
+        "available": true
+      },
+      {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": 2018,
+        "available": true
+      },
+      {
+        "title": "The Anxious Generation",
+        "author": "Jonathan Haidt",
+        "year": 2024,
+        "available": false
+      },
+      {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "year": 2008,
+        "available": true
+      },
+      {
+        "title": "Emotional Intelligence",
+        "author": "Daniel Goleman",
+        "year": 1995,
+        "available": true
+      },
+      {
+        "title": "Project Hail Mary",
+        "author": "Andy Weir",
+        "year": 2022,
+        "available": false
+      },
+      {
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "year": 1927,
+        "available": true
+      }
+    ]
+  }
+  
