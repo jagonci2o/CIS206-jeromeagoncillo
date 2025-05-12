@@ -77,13 +77,13 @@ def main():
         messagebox.showinfo("Employee Information", info)
 
     def addEmployeeToList():
-        # Add current employee to the list and display in visual list of employees
+        # Add current employee to the list and display name in the visual list of employees
         if emp.getName() == "" or emp.getId() == 0:
             messagebox.showwarning("Missing Info", "Please enter at least Name and ID.")
             return
         new_emp = EmployeeGUI(emp.getName(), emp.getId(), emp.getDepartment(), emp.getPosition())
         employees.append(new_emp)
-        # Show employee name in the visual list of employees
+        # Show employee names in the visual list of employees
         listbox.insert(
             tk.END,
             f"{new_emp.getName()}"
